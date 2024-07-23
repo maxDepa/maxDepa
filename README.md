@@ -1,4 +1,6 @@
 ## Hi there 👋
+- 🔭 I’m currently working on [Dragonero](https://store.steampowered.com/app/2532770/Dragonero/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/massimo-de-pasquale/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxDepa&layout=compact&langs_count=8&theme=calm&hide=HTML,Gnuplot)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **maxDepa/maxDepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
