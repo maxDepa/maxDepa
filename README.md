@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![maxDepa's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxDepa)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxDepa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxDepa&layout=compact&langs_count=8&theme=calm&hide=HTML,Gnuplot)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **maxDepa/maxDepa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
